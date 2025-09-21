@@ -2,7 +2,7 @@
 Практика по курсу CV
 
 # HW1
-## ResNet18 (обучен на CIFAR10) и сравнение с простым CNN
+ResNet18 (обучен на CIFAR10) и сравнение с простым CNN
 Статья про ResNet: https://arxiv.org/pdf/1512.03385
 Cтруктура ResNet: https://medium.com/@ibtedaazeem/understanding-resnet-architecture-a-deep-dive-into-residual-neural-network-2c792e6537a9
 Итог: ResNet18 занимает больше времени на обучение и валидацию, чем CNN. ResNet18 лучше справляется с уменьшением loss-а и на тестовой и на валидационной выборке, а также почти в 1,5 раза увеличивает accuracy в сравнении с CNN.
